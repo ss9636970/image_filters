@@ -7,7 +7,7 @@ get_result.ipynb: 輸出結果程式碼
 
 UI.py: 使用者介面
 
-utils.py:  
+utils.py:  transformation程式碼
 
 DIPCV-Assugnemt2.pdf: 作業題目
 
